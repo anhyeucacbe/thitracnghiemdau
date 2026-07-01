@@ -1,8 +1,11 @@
-<?php
-define("BASE_URL", "http://localhost/thitracnghiem/public/");
+define("BASE_URL", "http://localhost:8080/");
 
-define("DB_HOST", "localhost");
+define("DB_HOST", "mysql");
+
 define("DB_NAME", "thitracnghiem");
+
 define("DB_USER", "root");
-define("DB_PASS", "");
-define("DB_PORT", 3307);
+
+define("DB_PASS", "123456");
+
+define("DB_PORT", 3306);
