@@ -1,4 +1,4 @@
-name: Deploy Docker App
+runs-on: self-hostedname: Deploy Docker App
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: SSH Deploy to Server
