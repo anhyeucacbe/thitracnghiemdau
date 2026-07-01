@@ -337,7 +337,7 @@
       <img src="https://utt.edu.vn/home/images/stories/logo-utt-border.png" alt="UTT Logo">
     </div>
 
-    <h1 class="brand-title">TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GTVT</h1>
+    <h1 class="brand-title">TRƯỜNG ĐẠI HỌC CÔNG NGHỆ GTVT TEST</h1>
     <p class="brand-subtitle">Hệ thống thi trắc nghiệm trực tuyến - University of Transport Technology</p>
   </div>
 
