@@ -1,4 +1,21 @@
-runs-on: self-hostedname: Deploy Docker App
+name: Deploy Docker App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Pull and Deploy
+        run: |
+          cd ~/thitracnghiemdau
+          git pull origin main
+          docker compose down
+          docker compose up -d --buildruns-on: self-hostedname: Deploy Docker App
 
 on:
   push:
