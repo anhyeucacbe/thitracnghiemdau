@@ -163,7 +163,7 @@
           title: 'Lỗi!',
           text: <?= json_encode($data["err"]) ?>,
           background: '#1e293b',
-          color: '#f1f5f9'
+          color: '#f2f5f7'
         });
       <?php endif; ?>
     });
