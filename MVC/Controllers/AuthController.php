@@ -1,7 +1,7 @@
 <?php
 class AuthController extends Controller
 {
-
+<-// Validate login input->
   public function login()
   {
     $this->view("layout_login", [
