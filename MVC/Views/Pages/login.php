@@ -1,5 +1,6 @@
 <?php $err = $data["err"] ?? ""; ?>
-<!-- Login UI updated by Thanh Nha -->
+//Login UI updated by Thanh Nha
+// Login page version B
 <style>
   /* Modern Login Page Styles */
   .login-wrapper {
