@@ -1,7 +1,7 @@
 <?php
 class Dethi_m extends Database
 {
-
+//cap nhat de thi
   public function list($mon_id = 0, $q = "")
   {
     $qLike = "%" . trim($q) . "%";
