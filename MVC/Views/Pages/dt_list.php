@@ -4,7 +4,7 @@ $mons = $data["mons"] ?? [];
 $mon_id = (int) ($data["mon_id"] ?? 0);
 $q = $data["q"] ?? "";
 ?>
-
+//sua de thi
 <div class="page-head compact">
   <div class="page-title">QUẢN LÝ ĐỀ THI</div>
 

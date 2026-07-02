@@ -1,7 +1,7 @@
 <?php
 class DethiController extends Controller
 {
-
+//tao bai thi
   public function index()
   {
     $this->needAdmin();
