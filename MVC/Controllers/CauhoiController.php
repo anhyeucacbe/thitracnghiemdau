@@ -1,7 +1,7 @@
 <?php
 class CauhoiController extends Controller
 {
-
+//tao cau hoi
   public function index()
   {
     $this->needAdmin();
