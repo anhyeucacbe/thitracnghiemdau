@@ -1,7 +1,7 @@
 <?php
 class LamBai_m extends Database
 {
-
+// Save exam result
   
   public function listPhongThiByHocVien($hocvien_id)
   {
