@@ -1,7 +1,7 @@
 <?php
 class Cauhoi_m extends Database
 {
-
+//cap nhat cau hoi
   public function list($mon_id = 0, $q = "", $offset = 0)
   {
     $q = trim($q);
