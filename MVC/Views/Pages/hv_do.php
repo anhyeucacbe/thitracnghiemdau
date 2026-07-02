@@ -1,4 +1,5 @@
 <?php
+//lananh
 $bl = $data["bl"];
 $qs = $data["qs"] ?? [];
 $answered = $data["answered"] ?? [];
