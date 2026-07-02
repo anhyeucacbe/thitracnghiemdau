@@ -1,7 +1,7 @@
 <?php
 class User_m extends Database
 {
-
+<-// Improve login session->
   public function findByUsername($u)
   {
     $st = $this->con->prepare("SELECT * FROM users WHERE username=? LIMIT 1");
