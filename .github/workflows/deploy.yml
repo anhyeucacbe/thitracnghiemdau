@@ -4,15 +4,13 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: self-hosted
 
     steps:
-      - name: Pull and Deploy
+      - name: Deploy on Ubuntu Server
         run: |
-          cd ~/thitracnghiemdau
-          git pull origin main
-          docker compose down
-          docker compose up -d --build
+          /home/sinhvien/deploy-thitracnghiem.sh
