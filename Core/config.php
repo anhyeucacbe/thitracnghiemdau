@@ -1,6 +1,6 @@
 <?php
 
-define("BASE_URL", "http://192.168.1.222:8080/");
+define("BASE_URL", "http://10.214.198.170:8080/");
 
 define("DB_HOST", "mysql");
 
