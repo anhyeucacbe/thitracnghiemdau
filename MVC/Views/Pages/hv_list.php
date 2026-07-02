@@ -4,7 +4,7 @@ $lops = $data["lops"] ?? [];
 $lop_id = (int) ($data["lop_id"] ?? 0);
 $q = $data["q"] ?? "";
 ?>
-
+//cap nhat hoc vien
 <div class="page-head compact">
   <div class="page-title">QUẢN LÝ HỌC VIÊN</div>
 

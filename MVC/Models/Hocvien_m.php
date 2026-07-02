@@ -1,7 +1,7 @@
 <?php
 class Hocvien_m extends Database
 {
-
+//them tim kiem hv
   
   public function findByMaHV($ma_hv)
   {

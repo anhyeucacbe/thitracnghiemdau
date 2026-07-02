@@ -1,7 +1,7 @@
 <?php
 class HocvienController extends Controller
 {
-
+//sua trang hocvien
 
   public function index()
   {
