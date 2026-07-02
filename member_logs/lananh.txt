@@ -1,6 +1,9 @@
+
 Lan Anh
 Task:
 - làm bài thi
 - lịch sử thi
 - các thao tác đặt cờ, vi phạm lỗi
 - xem kết quả thi
+Update 1:
+- Hoàn thiện giao diện làm bài
