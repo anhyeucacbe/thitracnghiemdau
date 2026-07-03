@@ -154,3 +154,4 @@ class Dethi_m extends Database
     return $st->execute([$id]);
   }
 }
+//sua de thi lan 2
