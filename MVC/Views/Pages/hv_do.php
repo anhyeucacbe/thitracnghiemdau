@@ -1,5 +1,5 @@
 <?php
-//lananh
+//lananh sua
 $bl = $data["bl"];
 $qs = $data["qs"] ?? [];
 $answered = $data["answered"] ?? [];
